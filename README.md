@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[??.netlify.app/](??.netlify.app/)
+[https://maindbox.netlify.app/](https://maindbox.netlify.app/)
 
 ### Установка
 ```shell
